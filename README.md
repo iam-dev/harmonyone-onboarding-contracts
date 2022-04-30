@@ -31,3 +31,15 @@ Greeter deployed to: 0xcBdcB15F89719621f3FF5E9584031b95516F4935
 ![Screenshot Remix assignment1](https://github.com/iam-dev/harmonyone-onboarding-contracts/blob/main/assignment1-using-remix.png)
 
 
+## Assignment 2 and 3
+```shell
+yarn deploy harmonyTestnet
+```
+
+### Result
+Ballot deployed to: 0x29e391370dA2D5eb0F04e2c3fC99730a179309F6
+
+
+vote transaction: https://explorer.pops.one/tx/0x8f166c51fc7e69abc5789dd60ad519f6e525099c119e302a9f063dd3c10533fa
+
+![Screenshot Remix assignment1](https://github.com/iam-dev/harmonyone-onboarding-contracts/blob/main/assignment2-3-using-remix.png.png)
