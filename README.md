@@ -40,7 +40,7 @@ In some cases you don't want to give information about you, for example if you b
 
 4. How would you prove to a colorblind person that two different colored objects are actually of different colors? You could check out Avi Wigderson talk about a similar problem [here](https://www.youtube.com/watch?v=5ovdoxnfFVc&t=4s). 
 
-- ![#f03c15]() `#f03c15`
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `With Zero Knowledge Proof`
 
 
 Provide the answers to these questions in your submission.
