@@ -73,4 +73,16 @@ Ballot deployed to: 0x29e391370dA2D5eb0F04e2c3fC99730a179309F6
 
 vote transaction: https://explorer.pops.one/tx/0x8f166c51fc7e69abc5789dd60ad519f6e525099c119e302a9f063dd3c10533fa
 
-![Screenshot Remix assignment1](https://github.com/iam-dev/harmonyone-onboarding-contracts/blob/main/assignment2-3-using-remix.png.png)
+![Screenshot Remix assignment1](https://github.com/iam-dev/harmonyone-onboarding-contracts/blob/main/assignment2-3-using-remix.png)
+
+
+## Testing
+
+Ballot deployed to: 0x5B0924d8c363546E262631d56E57498EdE597b71
+
+![Testing modifier](https://github.com/iam-dev/harmonyone-onboarding-contracts/blob/main/testing-using-reming.png)
+
+Testing failed startTime: https://explorer.pops.one/tx/0x230767634c33abf7cb22109bb05d9caa7d0136793ea13a157349811bb95ef8ef
+
+Testing ok startTime
+https://explorer.pops.one/tx/0xb6f9c5b02bebb110152f78e7f61c8aa42fa8c7040886b1d0977d366f81874f67
